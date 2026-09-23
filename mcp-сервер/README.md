@@ -14,7 +14,7 @@
   `get_object_structure`, `execute_query` (только чтение), `generate_diagram`.
 - Обработка «Сервер MCP: настройки» — пользователь API, пароль, проверка соединения.
 - Роль `КИИ_СерверMCPДиагностика` — минимальные права для сервисного пользователя.
-- Прокси [iikona-mcp-proxy](https://github.com/andromanpro) — мост stdio → HTTP
+- Прокси [iikona-mcp-proxy](https://github.com/andromanpro/1c-ai-connector-mcp-proxy) — мост stdio → HTTP
   для клиентов, которые не умеют HTTP-транспорт напрямую (Claude Desktop).
 
 ## Настройка
@@ -26,7 +26,7 @@
    не нужны — инструменты рассчитаны на least privilege.
 3. В обработке «Сервер MCP: настройки» задайте логин/пароль API и проверьте
    соединение кнопкой.
-4. Подключите агента: адрес `http(s)://<сервер>/<база>/hs/mcp/rpc`,
+4. Подключите агента: адрес `http(s)://<сервер>/<база>/hs/iikona-mcp/rpc`,
    Basic Auth с учётными данными из шага 3. Для Claude Desktop используйте
    прокси `iikona-mcp-proxy` (настройка в его README).
 
