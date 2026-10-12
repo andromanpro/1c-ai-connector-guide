@@ -5,6 +5,12 @@
 Раздел для пользователей и администраторов: как настроить и запустить.
 
 
+<a href="https://infostart.ru/1c/articles/2814180/">
+  <img src="https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg" alt="Инфостарт" width="140">
+</a>
+
+[Обзор ИИконы на Инфостарте](https://infostart.ru/1c/articles/2814180/).
+
 ## Версия 1.7.1 и меню
 
 Руководство обновлено для версии 1.7.1. Исторические снимки измененных форм
