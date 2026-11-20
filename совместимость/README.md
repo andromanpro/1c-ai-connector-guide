@@ -1,5 +1,9 @@
 # Совместимость и проверка 1.9.0
 
+## Проверка 1.9.6
+
+1176 основных тестов, 105 ролевых выполнений, компиляция и Sonar OK/0. [Квитанция](https://github.com/andromanpro/1c-ai-connector-tests/tree/v1.9.6/verification/1.9.6).
+
 ## Проверка 1.9.5
 
 1175 основных тестов, 105 ролевых выполнений, компиляция и Sonar OK/0. [Квитанция](https://github.com/andromanpro/1c-ai-connector-tests/tree/v1.9.5/verification/1.9.5).
